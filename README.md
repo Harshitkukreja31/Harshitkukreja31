@@ -4,7 +4,7 @@
 
 
 🏅 Awards & Certifications
-* **SIH 2024 Finalist** & **Dean's List Member**
+* **SIH 2023 Finalist** & **Dean's List Member**
 * **Certifications**:
    * Cyber Security and Privacy - NPTEL
    * Machine Learning Capstone - IBM
